@@ -1,7 +1,5 @@
 # 《前端技术栈》
 
-
-
 > 前端学习笔记整理
 
 
@@ -16,3 +14,6 @@
 * [`DevOps`](/devops/node-deploy.md)
 * [`工具`](/tools/git.md)
 * [`资料`](/materials/blog.md)
+
+## 说明
+本仓库只用于学习使用，不做商业用途。
