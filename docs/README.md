@@ -16,4 +16,6 @@
 * [`资料`](/materials/blog.md)
 
 ## 说明
-本仓库只用于学习使用，不做商业用途。
+本仓库只用于学习使用，不做商业用途，感谢五月君的资料分享，部分资料转至作者：五月君
+链接：https://github.com/Q-Angelo/Nodejs-Roadmap
+来源：Nodejs.js技术栈
